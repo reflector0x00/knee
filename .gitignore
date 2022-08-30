@@ -1,0 +1,7 @@
+*.o
+*.bin
+*.a
+./busybox*
+./crosstool-ng*
+./initrd/*
+./toolchain/*
