@@ -1,7 +1,6 @@
 # Knee kernel
 
-Knee is a kernel for i686-based PCs written in C++. Released under BSD-3 license.
-
+Knee is a kernel for i686-based PCs written in C++.
 ## Requirements
 
 Any Linux-based distributive (Ubuntu is recommended). FreeBSD (and other unix-like OS), Cygwin and MingW (MSYS) haven't been tested.
